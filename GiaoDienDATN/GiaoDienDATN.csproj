@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{140B1D9B-62F4-4738-A405-4DEB6873F0ED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GiaoDienDATN</RootNamespace>
+    <AssemblyName>GiaoDienDATN</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Automation.BDaq, Version=1.0.1.0, Culture=neutral, PublicKeyToken=463f5928d60183a0" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph">
+      <HintPath>C:\Users\Admin\Downloads\PROJECT_DOTHI_HIENCLUBVN\DOTHI_HIENCLUBVN\DOTHI_HIENCLUBVN\bin\Debug\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giao_dien_ban_dau.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 and 2 plane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Amount and Angle display.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\analyser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balancing analyser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balancing log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bode plot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calib_left chanel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combine weights.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drill correction.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giao_dien_ban_dau1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hard_bearing calib.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hardware setup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh mode1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh mode2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh mode3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh mode4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh mode5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh mode6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh mode7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh mode8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinh mode9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Instrumentation setup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyway.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\label print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode1-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode1-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode2-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode2-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode3-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode3-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode4-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode4-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode5-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode5-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode6-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode6-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode7-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode7-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode8-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode8-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode9-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mode9-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multi-run.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\name.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nen ngoai.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next run.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Polar diagram display.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\result dis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\result display.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotor segments vector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotor segments.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotor specific calib key new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotor specific calib key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotor specific calib new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rotor specific calib.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RPM calib.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show hisory new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show hítory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Special correction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\static couple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toggle add-remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tolerance calculator.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

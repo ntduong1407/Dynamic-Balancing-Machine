@@ -1,0 +1,194 @@
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_18-7-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_18-7-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_18-7-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_18-7-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_18-7-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_18-7-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_18-7-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_18-7-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_18-7-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_18-7-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+C:\thiet bi dien 5\thay_tuan\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+D:\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+D:\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+D:\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+D:\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+D:\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+D:\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+D:\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+D:\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+D:\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+D:\can_bang_dong_4-8-22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+D:\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\ZedGraph.dll
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Toshiba L301\Downloads\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+C:\Users\Admin\Desktop\can_bang_dong_9-8-22_nhan_th_c\can_bang_dong_9-8-22_nhan_th (Quang chinh 21.8)\can_bang_dong_9-8-22_nhan_th\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+C:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.thu_draw_clear.resources
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.thu_draw_clear.resources
+C:\Users\Admin\Desktop\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+E:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+E:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+E:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.thu_draw_clear.resources
+C:\Users\Administrator\Downloads\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+D:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+D:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+D:\can_bang_dong_11_7_22\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\bin\Debug\ZedGraph.dll
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csprojResolveAssemblyReference.cache
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.thu_draw_clear.resources
+D:\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.Cache
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.AssemblyReference.cache
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.thu_draw_clear.resources
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.cache
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.CoreCompileInputs.cache
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang.D19C0922.Up2Date
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+D:\DATN\can_bang_dong_11_7_22+1-6-23\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe.config
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.exe
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\bin\Debug\can_bang_dong_11_7_22.pdb
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.AssemblyReference.cache
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form1.resources
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form2.resources
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form3.resources
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Form4.resources
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.Properties.Resources.resources
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.thu_draw_clear.resources
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.GenerateResource.cache
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.csproj.CoreCompileInputs.cache
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang.D19C0922.Up2Date
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.exe
+D:\DATN\GiaoDienDATN\can_bang_dong_11_7_22\obj\Debug\can_bang_dong_11_7_22.pdb

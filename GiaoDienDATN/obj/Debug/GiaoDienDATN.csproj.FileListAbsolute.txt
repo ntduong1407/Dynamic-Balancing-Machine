@@ -1,0 +1,14 @@
+D:\DATN\GiaoDienDATN\GiaoDienDATN\bin\Debug\GiaoDienDATN.exe.config
+D:\DATN\GiaoDienDATN\GiaoDienDATN\bin\Debug\GiaoDienDATN.exe
+D:\DATN\GiaoDienDATN\GiaoDienDATN\bin\Debug\GiaoDienDATN.pdb
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDienDATN.csproj.AssemblyReference.cache
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDienDATN.Form1.resources
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDienDATN.Form2.resources
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDienDATN.Form3.resources
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDienDATN.Form4.resources
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDienDATN.Properties.Resources.resources
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDienDATN.csproj.GenerateResource.cache
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDienDATN.csproj.CoreCompileInputs.cache
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDien.2E6EE6D2.Up2Date
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDienDATN.exe
+D:\DATN\GiaoDienDATN\GiaoDienDATN\obj\Debug\GiaoDienDATN.pdb
